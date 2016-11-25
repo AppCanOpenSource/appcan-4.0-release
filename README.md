@@ -71,9 +71,9 @@
 
 #### Android插件：
 
-1. 版本号: uexDevice-android-4.0.1      
+1. 版本号: uexGaodeMap-android-4.0.1      
 
-   更新内容: 新增获取ip接口
+   更新内容: 新增接口addMultiInfoWindow
 
 2. 版本号: uexImage-android-4.0.2
 
