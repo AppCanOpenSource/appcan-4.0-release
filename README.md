@@ -78,3 +78,30 @@
 2. 版本号: uexImage-android-4.0.2
 
    更新内容: 图片按时间顺序排列,修复图片选取状态错误的bug,支持矩形任意区域裁剪
+
+### 2016-11-29版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexBackground-iOS-4.0.1
+
+更新内容: addTimer支持传入function
+
+
+#### Android插件：
+
+1. 版本号: uexGestureUnlock-android-4.0.1
+
+更新内容: 修复create接口第一个参数传空时崩溃的问题
+
+2. 版本号: uexAudio-android-4.0.1
+
+更新内容: 修复play参数传-1不循环播放的问题
+
+3. 版本号: uexImage-android-4.0.3
+
+更新内容: 修复usePng 为true时 不能保存图片的bug
+
+4. 版本号: uexWeiXin-android-4.0.1
+
+更新内容: shareLinkContent支持网络图片
