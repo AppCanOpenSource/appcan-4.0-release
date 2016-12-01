@@ -105,3 +105,35 @@
 4. 版本号: uexWeiXin-android-4.0.1
 
 更新内容: shareLinkContent支持网络图片
+
+### 2016-12-01版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexWebSocket-iOS-4.0.0
+
+更新内容: WebSocket插件出新
+
+2. 版本号: uexMQTT-iOS-4.0.0
+
+更新内容: Mqtt插件出新
+
+
+#### Android插件：
+
+1. 版本号: uexWebSocket-android-4.0.0
+
+更新内容: WebSocket插件出新
+
+2. 版本号: uexMQTT-android-4.0.0
+
+更新内容: Mqtt插件出新
+
+3. 版本号: uexBaiduMap-android-4.0.2
+
+更新内容: 修复open中心点失效的问题,searchRoutePlan支持function传入.
+
+4. 版本号: uexImage-android-4.0.4
+
+更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题
+
