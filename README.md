@@ -118,6 +118,19 @@
 
 更新内容: Mqtt插件出新
 
+### Android引擎:
+
+1. 版本号: android_Engine_4.0.1_161201_01_system
+
+更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
+
+2. 版本号: android_Engine_4.0.1_161201_01_x5
+
+更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
+
+3. 版本号: android_Engine_4.0.1_161201_01_crosswork
+
+更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
 
 #### Android插件：
 
