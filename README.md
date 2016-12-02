@@ -148,5 +148,5 @@
 
 4. 版本号: uexImage-android-4.0.4
 
-更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题
+更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题，依赖引擎4.0.1版本。
 
