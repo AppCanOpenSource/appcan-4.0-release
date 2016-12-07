@@ -150,3 +150,38 @@
 
 更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题，依赖引擎4.0.1版本。
 
+### 2016-12-07版本更新记录
+
+#### iOS引擎：
+
+版本号: iOS_Engine_4.0.3_161207_01_Xcode8.1
+
+更新内容: 新增窗口黑名单,修复uexEMM4.0报错的问题；推送上报逻辑更新,移除多余的Log；openPopover现在默认不会超出屏幕范围。
+
+#### iOS插件：
+
+1. 版本号: uexDataBaseMgr-iOS-4.0.1
+
+更新内容: 支持读取APP预置数据库
+
+2. 版本号: uexDevice-iOS-4.0.1
+
+更新内容: 添加接口getIP(),可以获取本地IP地址
+
+#### Android插件：
+
+1. 版本号: uexDataBaseMgr-android-4.0.1
+
+更新内容: 支持读取APP预置数据库
+
+2. 版本号: uexDevice-android-4.0.1
+
+更新内容: 添加接口getIP(),可以获取本地IP地址
+
+3. 版本号: uexDownloadMgr-android-4.0.1
+
+更新内容: 解决回调过快导致卡死的问题.
+
+4. 版本号: uexWheelPickView-android-4.0.1
+
+更新内容: 解决3级分类不能显示全的bug。
