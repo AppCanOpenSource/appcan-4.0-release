@@ -12,29 +12,29 @@
 
 1. 版本号: uexDataBaseMgr-iOS-4.0.1
 
-更新内容: 支持读取APP预置数据库
+   更新内容: 支持读取APP预置数据库
 
 2. 版本号: uexDevice-iOS-4.0.1
 
-更新内容: 添加接口getIP(),可以获取本地IP地址
+   更新内容: 添加接口getIP(),可以获取本地IP地址
 
 #### Android插件：
 
 1. 版本号: uexDataBaseMgr-android-4.0.1
 
-更新内容: 支持读取APP预置数据库
+   更新内容: 支持读取APP预置数据库
 
 2. 版本号: uexDevice-android-4.0.1
 
-更新内容: 添加接口getIP(),可以获取本地IP地址
+   更新内容: 添加接口getIP(),可以获取本地IP地址
 
 3. 版本号: uexDownloaderMgr-android-4.0.1
 
-更新内容: 解决回调过快导致卡死的问题.
+   更新内容: 解决回调过快导致卡死的问题.
 
 4. 版本号: uexWheelPickView-android-4.0.1
 
-更新内容: 解决3级分类不能显示全的bug。
+   更新内容: 解决3级分类不能显示全的bug。
 
 ### 2016-12-01版本更新记录
 
@@ -42,43 +42,43 @@
 
 1. 版本号: uexWebSocket-iOS-4.0.0
 
-更新内容: WebSocket插件出新
+   更新内容: WebSocket插件出新
 
 2. 版本号: uexMQTT-iOS-4.0.0
 
-更新内容: Mqtt插件出新
+   更新内容: Mqtt插件出新
 
 ### Android引擎:
 
 1. 版本号: android_Engine_4.0.1_161201_01_system
 
-更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
+   更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
 
 2. 版本号: android_Engine_4.0.1_161201_01_x5
 
-更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
+   更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
 
 3. 版本号: android_Engine_4.0.1_161201_01_crosswork
 
-更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
+   更新内容: 显示图片支持自定义options，辅助uexImage插件修复ImageLoader未配置导致的crash问题。
 
 #### Android插件：
 
 1. 版本号: uexWebSocket-android-4.0.0
 
-更新内容: WebSocket插件出新
+   更新内容: WebSocket插件出新
 
 2. 版本号: uexMQTT-android-4.0.0
 
-更新内容: Mqtt插件出新
+   更新内容: Mqtt插件出新
 
 3. 版本号: uexBaiduMap-android-4.0.2
 
-更新内容: 修复open中心点失效的问题,searchRoutePlan支持function传入.
+   更新内容: 修复open中心点失效的问题,searchRoutePlan支持function传入.
 
 4. 版本号: uexImage-android-4.0.4
 
-更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题，依赖引擎4.0.1版本。
+   更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题，依赖引擎4.0.1版本。
 
 ### 2016-11-29版本更新记录
 
@@ -86,26 +86,26 @@
 
 1. 版本号: uexBackground-iOS-4.0.1
 
-更新内容: addTimer支持传入function
+   更新内容: addTimer支持传入function
 
 
 #### Android插件：
 
 1. 版本号: uexGestureUnlock-android-4.0.1
 
-更新内容: 修复create接口第一个参数传空时崩溃的问题
+   更新内容: 修复create接口第一个参数传空时崩溃的问题
 
 2. 版本号: uexAudio-android-4.0.1
 
-更新内容: 修复play参数传-1不循环播放的问题
+   更新内容: 修复play参数传-1不循环播放的问题
 
 3. 版本号: uexImage-android-4.0.3
 
-更新内容: 修复usePng 为true时 不能保存图片的bug
+   更新内容: 修复usePng 为true时 不能保存图片的bug
 
 4. 版本号: uexWeiXin-android-4.0.1
 
-更新内容: shareLinkContent支持网络图片
+   更新内容: shareLinkContent支持网络图片
 
 ### 2016-11-25版本更新记录
 
