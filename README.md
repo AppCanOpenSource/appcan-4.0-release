@@ -178,7 +178,7 @@
 
 更新内容: 添加接口getIP(),可以获取本地IP地址
 
-3. 版本号: uexDownloadMgr-android-4.0.1
+3. 版本号: uexDownloaderMgr-android-4.0.1
 
 更新内容: 解决回调过快导致卡死的问题.
 
