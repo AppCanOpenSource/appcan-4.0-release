@@ -150,13 +150,13 @@
 
 更新内容: 引入ACEImageLoader解决ImageLoader未配置导致的crash问题，依赖引擎4.0.1版本。
 
-### 2016-12-07版本更新记录
+### 2016-12-10版本更新记录
 
 #### iOS引擎：
 
-版本号: iOS_Engine_4.0.3_161207_01_Xcode8.1
+版本号:iOS_Engine_4.0.3_161208_01_Xcode8.1
 
-更新内容: 新增窗口黑名单,修复uexEMM4.0报错的问题；推送上报逻辑更新,移除多余的Log；openPopover现在默认不会超出屏幕范围。
+更新内容:  添加接口uexWindow.setInlineMediaPlaybackEnable();新增窗口黑名单,修复uexEMM4.0报错的问题；推送上报逻辑更新,移除多余的Log；openPopover现在默认不会超出屏幕范围。
 
 #### iOS插件：
 
