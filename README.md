@@ -1,5 +1,61 @@
 # appcan-4.0-release
 
+### 2016-12-16版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexVideo-iOS-4.0.1
+
+   更新内容: 修改视频播放画面显示不全、竖屏跳转横屏会卡在原位置
+
+2. 版本号: uexActionSheet-iOS-4.0.1
+
+   更新内容: 优化参数获取, 提高对3.x版本不规范参数的兼容性
+
+3. 版本号: uexFileMgr-iOS-4.0.2
+
+   更新内容: 修正部分cb接口回调参数与3.x版本不一致的问题
+
+4. 版本号: uexJPush-iOS-4.0.1
+
+   更新内容: 升级SDK；修正在iOS10+系统上extras参数与文档不一致的问题
+
+#### Android引擎：
+
+1. 版本号: android_Engine_4.0.2_161216_01_system
+
+   更新内容: 支持IDE显示console.log()
+
+2. 版本号: android_Engine_4.0.2_161216_01_x5
+
+   更新内容: 支持IDE显示console.log()
+
+3. 版本号: android_Engine_4.0.2_161216_01_crosswork
+
+   更新内容: 支持IDE显示console.log()
+   
+#### Android插件：
+
+1. 版本号: uexXmlHttpMgr-android-4.0.1
+
+   更新内容: 修复cookie 的问题
+
+2. 版本号: uexMobSMS-android-4.0.1
+
+   更新内容: 删除敏感权限
+
+3. 版本号: uexImage-android-4.0.5
+
+   更新内容: (依赖引擎4.0.1)图片自动滚动到最新
+
+4. 版本号: uexContact-android-4.0.1
+
+   更新内容: 解决获取联系人号码重复的问题
+
+5. 版本号: uexLog-android-4.0.1
+
+   更新内容: 解决Log发送失败和Log发送的时序问题
+
 ### 2016-12-10版本更新记录
 
 #### iOS引擎：
