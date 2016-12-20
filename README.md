@@ -1,5 +1,43 @@
 # appcan-4.0-release
 
+### 2016-12-20版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexWeiXin-iOS-4.0.1
+
+   更新内容: SDK升级至1.7.5 支持ATS
+
+2. 版本号: uexImage-iOS-4.0.1
+
+   更新内容: 支持4x3及16x9矩形裁剪
+
+3. 版本号: uexFileMgr-iOS-4.0.3
+
+   更新内容: 修复导致iCache模块异常的兼容性问题
+   
+#### Android插件：
+
+1. 版本号: uexMiPush-android-4.0.0
+
+   更新内容: 小米推送4.0插件
+
+2. 版本号: uexActionSheet-android-4.0.1
+
+   更新内容: 解决编译错误问题
+
+3. 版本号: uexDataBaseMgr-android-4.1.0
+
+   更新内容: (依赖引擎4.1.0)支持显示sql执行错误信息到IDE
+
+4. 版本号: uexJpush-android-4.0.1
+
+   更新内容: 修复onReceiveNotificationOpen回调两次的问题
+
+5. 版本号: uexUploaderMgr-android-4.0.1
+
+   更新内容: 修复uploadFile压缩参数失效的问题
+
 ### 2016-12-16版本更新记录
 
 #### iOS插件：
