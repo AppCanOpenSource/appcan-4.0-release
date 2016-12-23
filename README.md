@@ -1,5 +1,77 @@
 # appcan-4.0-release
 
+### 2016-12-23版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.0.4_161220_01_Xcode8.1
+
+更新内容:  修正uexWindow.prompt回调参数异常的问题;uexWindow加载网页时,不再移除URL中的query和fragment;UEX_PARAM_GUARD系列宏,在发生参数异常时输出的日志等级从debug变为error
+
+#### iOS插件：
+
+1. 版本号: uexAliPay-iOS-4.0.1
+
+   更新内容: SDK更新,添加新接口以支持新版"app接口支付"
+
+2. 版本号: uexUnionPay-iOS-4.0.1
+
+   更新内容: SDK更新,支持银联钱包支付,支持ATS
+
+3. 版本号: uexBaiduMap-iOS-4.0.2
+
+   更新内容: SDK更新,支持ATS;反地理编码现在可以返回更详细的信息
+
+4. 版本号: uexImage-iOS-4.0.2
+
+   更新内容: 优化加载网络图片的进度条; 回调修正,和文档保持一致
+
+5. 版本号: uexMobSMS-iOS-4.0.1
+
+   更新内容: SDK更新,支持ATS
+
+6. 版本号: uexNIM-iOS-4.0.1
+
+   更新内容: SDK更新,支持ATS
+
+7. 版本号: uexQQ-iOS-4.0.1
+
+   更新内容: SDK更新,支持ATS
+
+8. 版本号: uexUmeng-iOS-4.0.1
+
+   更新内容: SDK更新,支持ATS
+      
+#### Android插件：
+
+1. 版本号: uexGestureUnlock-android-4.0.2
+
+   更新内容: 手势密码界面调整
+
+2. 版本号: uexScanner-android-4.0.3
+
+   更新内容: 修复扫描返回json时，网页无法解析的问题
+
+3. 版本号: uexBaiduMap-android-4.0.3
+
+   更新内容: reverseGeocode返回详细信息 
+
+4. 版本号: uexUploaderMgr-android-4.0.2
+
+   更新内容: 修复文件名有汉字时出错的问题
+
+5. 版本号: uexLocation-android-4.0.1
+
+   更新内容: 更换AppKey
+
+6. 版本号: uexAliPay-android-4.0.1
+
+   更新内容: 支持支付宝新版接口
+
+7. 版本号: uexCamera-android-4.0.1
+
+   更新内容: 修复open和openInternal接口兼容3.0回调问题
+
 ### 2016-12-20版本更新记录
 
 #### iOS插件：
