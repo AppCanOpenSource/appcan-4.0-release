@@ -1,5 +1,39 @@
 # appcan-4.0-release
 
+### 2016-12-30版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexGaodeMap-iOS-4.0.2
+
+   更新内容: SDK升级 支持ATS;新增resize接口;新增路径规划相关接口
+
+2. 版本号: uexCamera-iOS-4.0.1
+
+   更新内容: open接口修改为不对图片尺寸进行压缩
+
+3. 版本号: uexGaodeNavi-iOS-4.0.1
+
+   更新内容: SDK更新 支持ATS
+      
+#### Android插件：
+
+1. 版本号: uexGaodeMap-android-4.0.2
+
+   更新内容: 升级Sdk,支持路径规划
+
+2. 版本号: uexGaoNavi-android-4.0.2
+
+   更新内容: 升级Sdk
+
+3. 版本号: uexImage-android-4.0.6
+
+   更新内容: 裁剪支持不传src参数 
+
+4. 版本号: uexTencentLVB-android-4.0.1
+
+   更新内容: 添加录音权限
+
 ### 2016-12-23版本更新记录
 
 #### iOS引擎：
