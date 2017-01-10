@@ -1,6 +1,12 @@
 # appcan-4.0-release
 
-### 2017-01-09版本更新记录
+### 2017-01-10版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.0.5_170109_01_Xcode8.1
+
+更新内容:  uexWindow.statusBarNotification接口重构
 
 #### iOS插件：
 
@@ -15,7 +21,22 @@
 3. 版本号: uexScanner-iOS-4.0.1
 
    更新内容: 修复首次启动用户确认相机权限时可能闪退的问题
-      
+
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.1_170110_01_system
+
+   更新内容: IDE支持显示console.log();actionSheet优化;修复推送问题
+
+2. 版本号: android_Engine_4.1.1_170110_01_x5
+
+   更新内容: IDE支持显示console.log();actionSheet优化;修复推送问题
+
+3. 版本号: android_Engine_4.1.1_170110_01_crosswork
+
+   更新内容: IDE支持显示console.log();actionSheet优化;修复推送问题
+   
+   
 #### Android插件：
 
 1. 版本号: uexAliPay-android-4.0.2
