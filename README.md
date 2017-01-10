@@ -1,5 +1,52 @@
 # appcan-4.0-release
 
+### 2017-01-09版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexEasemob-iOS-4.0.1
+
+   更新内容: SDK升级,支持ATS
+
+2. 版本号: uexDownloaderMgr-iOS-4.0.1
+
+   更新内容: 修复一个会导致崩溃的问题
+
+3. 版本号: uexScanner-iOS-4.0.1
+
+   更新内容: 修复首次启动用户确认相机权限时可能闪退的问题
+      
+#### Android插件：
+
+1. 版本号: uexAliPay-android-4.0.2
+
+   更新内容: 修复支付成功之后没有回调的问题
+
+2. 版本号: uexDevice-android-4.0.2
+
+   更新内容: 增加网络状态监听的功能
+
+3. 版本号: uexDownloaderMgr-android-4.1.3
+
+   更新内容: 修复服务器返回2XX（非200、206）导致下载失败的问题，并修改自动处理重定向 
+
+4. 版本号: uexLocation-android-4.0.2
+
+   更新内容: 提高定位服务的存活率
+
+5. 版本号: uexSecurityKeyboard-android-4.0.1
+
+   更新内容: 增加自定义输入框样式、随机展示数字键盘等功能
+
+6. 版本号: uexUploaderMgr-android-4.0.3
+
+   更新内容: 修复服务器返回2XX（非200）导致上传失败的问题，并修改自动处理重定向 
+
+7. 版本号: uexEasemob-android-4.1.0
+
+   更新内容: (依赖引擎4.1)更新SDK，修复若干bug
+
+
 ### 2016-12-30版本更新记录
 
 #### iOS插件：
