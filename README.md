@@ -1,5 +1,44 @@
 # appcan-4.0-release
 
+### 2017-01-22版本更新记录
+
+版本号:iOS_Engine_4.0.6_170122_01_Xcode8.1
+
+更新内容:  修复解析相对路径URL时没有正确移除query和fragment的问题
+
+#### iOS插件：
+
+1. 版本号: uexAudio--iOS-4.0.1
+
+   更新内容: 修复音效池接口内存泄露问题
+
+2. 版本号: uexChatKeyboard-iOS-4.0.1
+
+   更新内容: 添加getText，setText接口
+
+3. 版本号: uexWeiXin-iOS-4.0.2
+
+   更新内容: 修改全部function回调数据类型为对象
+
+#### Android插件：
+
+1. 版本号: uexWeiXin-android-4.0.3
+
+   更新内容: 修改全部function回调数据类型为对象
+
+2. 版本号: uexEasemob-android-4.1.1
+
+   更新内容: 修复跨页面调用接口出错的问题
+
+3. 版本号: uexChatKeyboard-android-4.0.1
+
+   更新内容: 添加getText，setText接口 
+
+4. 版本号: uexDownloaderMgr-android-4.1.4
+
+   更新内容: （需要引擎4.1.0以上）修复某些url不能下载的问题
+
+
 ### 2017-01-10版本更新记录
 
 #### iOS引擎：
