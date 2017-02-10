@@ -1,5 +1,42 @@
 # appcan-4.0-release
 
+### 2017-02-10版本更新记录
+
+版本号:iOS_Engine_4.1.0_170209_19
+
+更新内容:  重构侧滑关闭组件;重构引擎动画;支持WidgetSDK
+
+#### iOS插件：
+
+1. 版本号: uexBaiduMap-iOS-4.0.3
+
+   更新内容: 修复窗口关闭导致后续的搜索功能异常的问题
+
+2. 版本号: uexChart-iOS-4.1.0
+
+   更新内容: 支持4.1引擎
+
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.1_170110_01_system
+
+   更新内容: X5内核修复，推送相关bug修复
+
+2. 版本号: android_Engine_4.1.1_170110_01_x5
+
+   更新内容: X5内核修复，推送相关bug修复
+
+3. 版本号: android_Engine_4.1.1_170110_01_crosswork
+
+   更新内容: X5内核修复，推送相关bug修复
+   
+#### Android插件：
+
+1. 版本号: uexTencentLVB-android-4.0.2
+
+   更新内容: 去除多余图片
+
+
 ### 2017-01-22版本更新记录
 
 版本号:iOS_Engine_4.0.6_170122_01_Xcode8.1
