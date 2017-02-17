@@ -1,5 +1,40 @@
 # appcan-4.0-release
 
+### 2017-02-17版本更新记录
+
+版本号:iOS_Engine_4.1.1_170216_00
+
+更新内容:  添加接口uexWidgetOne.restart;修复一个导致应用自动更新无效的bug
+
+#### iOS插件：
+
+1. 版本号: uexAliPay-iOS-4.0.2
+
+   更新内容: 添加登录相关接口
+
+2. 版本号: uexUpdate-iOS-4.1.0
+
+   更新内容: 用AFNetworking重构;支持4.1引擎热重启功能
+   
+#### Android插件：
+
+1. 版本号: uexEasemob-android-4.1.3
+
+   更新内容: (依赖引擎4.1)支持华为推送
+
+2. 版本号: uexHuaweiPush-android-4.0.0
+
+   更新内容: 华为推送插件出新，带百度地图版
+
+3. 版本号: uexHuaweiPush-android-nomap-4.0.0
+
+   更新内容: 华为推送插件出新，不带百度地图版
+
+4. 版本号: uexAliPay-android-4.0.3
+
+   更新内容: 支持支付宝登录
+
+ 
 ### 2017-02-10版本更新记录
 
 版本号:iOS_Engine_4.1.0_170209_19
