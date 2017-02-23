@@ -1,5 +1,54 @@
 # appcan-4.0-release
 
+### 2017-02-23版本更新记录
+
+版本号:iOS_Engine_4.1.2_170222_01
+
+更新内容:  修复在低版本iOS系统上连续快速关闭窗口可能导致app闪退的问题
+
+#### iOS插件：
+
+1. 版本号: uexImage-iOS-4.0.4
+
+   更新内容: 4.0图片压缩接口回调参数定义
+
+2. 版本号: uexDataBaseMgr-iOS-4.0.2
+
+   更新内容: 修复一个导致空指针闪退的bug
+
+3. 版本号: uexDataAnalysis-iOS-4.1.0
+
+   更新内容: 修复SFHFKeychainUtils缺失问题,兼容4.1引擎
+
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.3_170223_01_crosswalk
+
+   更新内容: 添加uexWidgetOne.restart()接口
+
+2. 版本号: android_Engine_4.1.3_170223_01_system
+
+   更新内容: 添加uexWidgetOne.restart()接口
+
+3. 版本号: android_Engine_4.1.3_170223_01_x5
+
+   更新内容: 添加uexWidgetOne.restart()接口
+   
+#### Android插件：
+
+1. 版本号: uexImage-android-4.0.7
+
+   更新内容: 修复样式错乱的问题，4.0图片压缩接口回调参数定义
+
+2. 版本号: uexXmlHttpMgr-android-4.0.2
+
+   更新内容: 修复某些异常情况下导致的崩溃问题
+
+3. 版本号: uexControl-android-4.0.1
+
+   更新内容: 修复openDatePickerWithConfig
+
+
 ### 2017-02-17版本更新记录
 
 版本号:iOS_Engine_4.1.1_170216_00
