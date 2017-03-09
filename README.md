@@ -1,5 +1,56 @@
 # appcan-4.0-release
 
+### 2017-03-07版本更新记录
+
+版本号:iOS_Engine_4.1.5_170302_01
+
+更新内容:  修复在线升级后'res://' 路径解析失败的问题;修正首次启动应用时初始化时间过长的问题;App启动页现在支持淡出动画效果
+
+#### iOS插件：
+
+1. 版本号: uexAliPay-iOS-4.0.3
+
+   更新内容: 修复notifyURL无效的问题
+
+2. 版本号: uexUpdate-iOS-4.1.1
+
+   更新内容: 修正在iPod Touch机型上黑屏的问题
+
+3. 版本号: uexGaodeMap-iOS-4.0.3
+
+   更新内容: 添加轨迹纠偏接口
+
+4. 版本号: uexContact-iOS-4.0.1
+
+   更新内容: 修复闪退/内存泄露bugs
+
+5. 版本号: uexXmlHttpMgr-iOS-4.0.1
+
+   更新内容: create接口传入的json中添加配置项certificateValidation,支持开启ssl证书信任链校验
+   
+6. 版本号: uexVideo-iOS-4.0.2
+
+   更新内容: 添加1x的图片资源,解决在部分旧型号设备上图标不显示的问题
+   
+#### Android插件：
+
+1. 版本号: uexNFC-android-4.0.0
+
+   更新内容: NFC插件出新
+
+2. 版本号: uexActionSheet-android-4.0.2
+
+   更新内容: 修复在ready里面打开高度不对的问题
+
+3. 版本号: uexEasemob-android-4.1.5
+
+   更新内容: (依赖引擎4.1)修复getRecentChatters；兼容chatType传数字
+
+4. 版本号: uexGaodeMap-android-4.0.3
+
+   更新内容: 添加轨迹纠偏接口
+
+   
 ### 2017-02-23版本更新记录
 
 版本号:iOS_Engine_4.1.2_170222_01
