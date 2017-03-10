@@ -1,6 +1,30 @@
 # appcan-4.0-release
 
+### 2017-03-10版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexDevice-iOS-4.0.2
+
+   更新内容: 增加onNetStatusChanged,startNetStatusListener和stopsNetStatusListener网络监听方法
+
+2. 版本号: uexGaodeMap-iOS-4.0.4
+
+   更新内容: 更新SDK,避免因JSPatch导致的上架问题
+
+3. 版本号: uexGaodeNavi-iOS-4.0.2
+
+   更新内容: 更新SDK,避免因JSPatch导致的上架问题
+   
+#### Android插件：
+
+1. 版本号: uexDownloaderMgr-android-4.1.5
+
+   更新内容: 修复重定向链接不能下载的问题
+
 ### 2017-03-07版本更新记录
+
+#### iOS引擎：
 
 版本号:iOS_Engine_4.1.5_170302_01
 
@@ -53,6 +77,8 @@
    
 ### 2017-02-23版本更新记录
 
+#### iOS引擎：
+
 版本号:iOS_Engine_4.1.2_170222_01
 
 更新内容:  修复在低版本iOS系统上连续快速关闭窗口可能导致app闪退的问题
@@ -102,6 +128,8 @@
 
 ### 2017-02-17版本更新记录
 
+#### iOS引擎：
+
 版本号:iOS_Engine_4.1.1_170216_00
 
 更新内容:  添加接口uexWidgetOne.restart;修复一个导致应用自动更新无效的bug
@@ -136,6 +164,8 @@
 
  
 ### 2017-02-10版本更新记录
+
+#### iOS引擎：
 
 版本号:iOS_Engine_4.1.0_170209_19
 
@@ -173,6 +203,8 @@
 
 
 ### 2017-01-22版本更新记录
+
+#### iOS引擎：
 
 版本号:iOS_Engine_4.0.6_170122_01_Xcode8.1
 
