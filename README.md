@@ -1,5 +1,67 @@
 # appcan-4.0-release
 
+### 2017-04-06版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.1.6_170406_01
+
+更新内容:  引擎现在默认允许自动转屏;WidgetOneSDK兼容性更新
+
+#### iOS插件：
+
+1. 版本号: uexQQ-iOS-4.0.2
+
+   更新内容: 修复分享资源路径不支持https的问题
+
+2. 版本号: uexAliPay-iOS-4.0.4
+
+   更新内容: generatePayOrder接口添加notify_url参数
+
+3. 版本号: uexDevice-iOS-4.0.2
+
+   更新内容: plugin.xml文件配置startNetStatusListener和stopsNetStatusListener方法
+
+4. 版本号: uexImage-iOS-4.0.4
+
+   更新内容: openBrower style为1新样式 openPicker Style为1新样式   
+
+5. 版本号: uexWebBrowser-iOS-4.0.0
+
+   更新内容: uexWebBrowser插件出新   
+
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.4_170406_01_crosswalk
+
+   更新内容: 修复openPopover接口传入json对象调用无效的问题
+
+2. 版本号: android_Engine_4.1.4_170406_01_system
+
+   更新内容: 修复openPopover接口传入json对象调用无效的问题
+
+3. 版本号: android_Engine_4.1.4_170406_01_x5
+
+   更新内容: 修复openPopover接口传入json对象调用无效的问题
+
+#### Android插件：
+
+1. 版本号: uexQQ-android-4.1.5
+
+   更新内容: 修复未安装qq调用qq登录再返回应用卡死的问题
+
+2. 版本号: uexAudio-android-4.0.2
+
+   更新内容: 修改onPlayFinished 次数从1开始
+
+3. 版本号: uexWebBrowser-android-4.0.0
+
+   更新内容: uexWebBrowser插件出新   
+
+4. 版本号: uexChatKeyboard-android-4.0.3
+
+   更新内容: 添加onFrameChanged接口   
+
 ### 2017-03-10版本更新记录
 
 #### iOS插件：
