@@ -1,5 +1,62 @@
 # appcan-4.0-release
 
+### 2017-04-24版本更新记录
+
+#### iOS插件：
+
+1. 版本号: uexCamera-iOS-4.0.2
+
+   更新内容: 修复横屏打开展示图片的界面会导致UI错乱的问题
+
+2. 版本号: uexContact-iOS-4.0.2
+
+   更新内容: 修复search和searchItem不能返回全部联系人的问题
+
+3. 版本号: uexDevice-iOS-4.0.4
+
+   更新内容: 修复一个导致截屏失败的bug
+
+4. 版本号: uexImage-iOS-4.0.6
+
+   更新内容: openPicker style为1新样式回调参数改为对象
+
+5. 版本号: uexInAppPurchase-iOS-4.0.1
+
+   更新内容: 修复bugs;purchase接口新增verifyStrategy参数;purchase接口支持function回调参数 
+
+6. 版本号: uexDownloaderMgr-iOS-4.0.2
+
+   更新内容: 关闭网页后,会正确停止当前网页的下载任务
+   
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.5_170424_01_crosswalk
+
+   更新内容: 解决openWindow flag为256时无法获取焦点的问题
+
+2. 版本号: android_Engine_4.1.5_170424_01_system
+
+   更新内容: 解决openWindow flag为256时无法获取焦点的问题
+
+3. 版本号: android_Engine_4.1.5_170424_01_x5
+
+   更新内容: 解决openWindow flag为256时无法获取焦点的问题
+
+#### Android插件：
+
+1. 版本号: uexAudio-android-4.0.3
+
+   更新内容: 修复stopBackgroundRecord接口阻碍主线程的问题
+
+2. 版本号: uexContact-android-4.0.2
+
+   更新内容: 修改search接口返回数据格式与iOS保持一致
+
+3. 版本号: uexGaodeMap-android-4.0.4
+
+   更新内容: 第一次open改为同步  
+
+
 ### 2017-04-06版本更新记录
 
 #### iOS引擎：
