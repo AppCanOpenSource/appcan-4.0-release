@@ -1,5 +1,47 @@
 # appcan-4.0-release
 
+### 2017-04-27版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.1.7_170426_01
+
+更新内容:  修复一个导致res://路径解析失败的bug;修复一个导致子应用上报版本号异常的bug;支持子应用热修复;uexWindow.prompt接口支持密码输入样式;更新AppCanKit版本
+
+#### iOS插件：
+
+1. 版本号: uexInAppPurchase-iOS-4.0.2
+
+   更新内容: 修复生成环境验证时的一个bug
+
+2. 版本号: uexListView-iOS-4.0.1
+
+   更新内容: 修复侧边按钮btnIndex配置无效的问题
+
+3. 版本号: uexPDFReader-iOS-4.0.1
+
+   更新内容: 支持view级别的pdf预览
+
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.5_170427_01_crosswalk
+
+   更新内容: prompt支持输入密码
+
+2. 版本号: android_Engine_4.1.5_170427_01_system
+
+   更新内容: prompt支持输入密码
+
+3. 版本号: android_Engine_4.1.5_170427_01_x5
+
+   更新内容: prompt支持输入密码
+
+#### Android插件：
+
+1. 版本号: uexVideo-android-4.0.2
+
+   更新内容: UI改版
+
 ### 2017-04-24版本更新记录
 
 #### iOS插件：
