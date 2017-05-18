@@ -1,5 +1,58 @@
 # appcan-4.0-release
 
+### 2017-05-18版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.1.8_170511_01
+
+更新内容:  修复res://协议首次启动地址不正确的问题;修复设置状态栏无效的问题;修复iOS10+上收到推送消息后前端无法获取设置的回调函数和推送数据;setPushInfo绑定推送接口兼容小企业版mms
+
+#### iOS插件：
+
+1. 版本号: uexBackground-iOS-4.0.2
+
+   更新内容: 更新RAC依赖库
+
+2. 版本号: uexGestureUnlock-iOS-4.0.1
+
+   更新内容: 更新RAC依赖库
+
+3. 版本号: uexImage-iOS-4.0.7
+
+   更新内容: 更新RAC依赖库
+
+4. 版本号: uexNBListView-iOS-4.0.1
+
+   更新内容: 更新RAC依赖库
+
+5. 版本号: uexSocketMgr-iOS-4.0.1
+
+   更新内容: 更新RAC依赖库
+
+6. 版本号: uexVideo-iOS-4.0.3
+
+   更新内容: 支持endTime
+
+7. 版本号: uexTencentLVB-iOS-4.0.1
+
+   更新内容: SDK升级
+
+#### Android插件：
+
+1. 版本号: uexEasemob-android-4.1.6
+
+   更新内容: (依赖引擎4.1)修复创建公开群的问题
+
+2. 版本号: uexVideo-android-4.0.3
+
+   更新内容: 支持endTime
+
+3. 版本号: uexTencentLVB-android-4.0.3
+
+   更新内容: SDK升级
+ 
+ 
 ### 2017-04-27版本更新记录
 
 #### iOS引擎：
