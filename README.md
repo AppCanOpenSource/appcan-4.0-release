@@ -1,5 +1,64 @@
 # appcan-4.0-release
 
+### 2017-05-27版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.1.9_170522_01
+
+更新内容:  修复推送上报的bug;修改Pushv4的相关逻辑
+
+#### iOS插件：
+
+1. 版本号: uexUmeng-iOS-4.0.2
+
+   更新内容: SDK升级到4.2.5
+
+2. 版本号: uexCamera-iOS-4.0.3
+
+   更新内容: openViewCamera支持JSON传参
+
+3. 版本号: uexImage-iOS-4.0.8
+
+   更新内容: 移除新样式支持
+   
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.6_170525_01_crosswalk
+
+   更新内容: 修改4.0推送绑定解绑问题，增加加密文件的BOM头处理
+
+2. 版本号: android_Engine_4.1.6_170525_01_system
+
+   更新内容: 修改4.0推送绑定解绑问题，增加加密文件的BOM头处理
+
+3. 版本号: android_Engine_4.1.6_170525_01_x5
+
+   更新内容: 修改4.0推送绑定解绑问题，增加加密文件的BOM头处理
+
+#### Android插件：
+
+1. 版本号: uexUmeng-android-4.0.2
+
+   更新内容: SDK升级至6.1.0
+
+2. 版本号: uexDownloaderMgr-android-4.1.6
+
+   更新内容: （需要引擎4.1.0以上）修复含有空格不能下载的问题
+
+3. 版本号: uexCamera-android-4.0.2
+
+   更新内容: 支持拍照不显示预览
+
+4. 版本号: uexCalendarView-android-4.0.1
+
+   更新内容: 修改日历不随页面的滚动而滚动
+
+5. 版本号: uexGestureUnlock-android-4.0.3
+
+   更新内容: (依赖4.1.6引擎)修复程序启动时调用verify接口无效的问题，修复config接口最短密码长度配置不生效的问题
+
+
 ### 2017-05-18版本更新记录
 
 #### iOS引擎：
