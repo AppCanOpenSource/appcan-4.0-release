@@ -10,9 +10,9 @@
 
 #### iOS插件：
 
-1. 版本号: uexVideo-iOS-4.0.6
+1. 版本号: uexVideo-iOS-4.1.5
 
-   更新内容: 视频全屏播放时显示为横屏,openPlayer接口新增isAutoEndFullScreen参数
+   更新内容: openPlayer接口新增isAutoEndFullScreen参数
    
 #### Android引擎：
 
