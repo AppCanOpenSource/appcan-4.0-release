@@ -1,5 +1,43 @@
 # appcan-4.0-release
 
+### 2017-06-21版本更新记录
+
+#### iOS引擎：
+
+版本号:iOS_Engine_4.1.10_170614_05
+
+更新内容:  修复关闭窗口动画无效问题
+
+#### iOS插件：
+
+1. 版本号: uexVideo-iOS-4.0.6
+
+   更新内容: 视频全屏播放时显示为横屏,openPlayer接口新增isAutoEndFullScreen参数
+   
+#### Android引擎：
+
+1. 版本号: android_Engine_4.1.7_170621_01_crosswalk
+
+   更新内容: 修改混淆文件，配合指纹识别插件出新
+
+2. 版本号: android_Engine_4.1.7_170621_01_system
+
+   更新内容: 修改混淆文件，配合指纹识别插件出新
+
+3. 版本号: android_Engine_4.1.7_170621_01_x5
+
+   更新内容: 修改混淆文件，配合指纹识别插件出新
+  
+#### Android插件：
+
+1. 版本号: uexFingerPrint-android-4.1.0
+
+   更新内容: (依赖引擎4.1.7)系统指纹识别功能
+
+2. 版本号: uexVideo-android-4.0.6
+
+   更新内容: 视频全屏播放时显示为横屏,openPlayer接口新增isAutoEndFullScreen参数
+
 ### 2017-06-08版本更新记录
 
 #### iOS引擎：
